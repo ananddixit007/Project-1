@@ -1,1 +1,1 @@
-# Project-1
+It is a visualizer of diffrent sorting algorithm.
