@@ -1,2 +1,2 @@
-Simple Sorting Visualizer of sorting algorithms.
+Simple Sorting Algorithms Visualizer.
 Languages Used- HTML CSS JavaScript
